@@ -8,4 +8,4 @@ summary: An InSpec Compliance Profile
 version: 0.1.0
 depends:
   - name: cis-centos7-level1
-    url: https://github.com/jleopold28/cis-centos7/raw/master/chef-cis-centos7-level1-1.1.0-4.tar.gz
+    url: https://github.com/jleopold28/cis-centos7/raw/master/ss_cis-centos7-level1-1.1.0-4.tar.gz
